@@ -1,6 +1,18 @@
-# email-validation-script
-Make an email input field with email validation.
-Input filed the label text moves up when we start typing anything in this input field. There is an Error message which moves down when we enter any invalid email.If the entered email id is invalid then you can see the error message and the border color of input field is red. Once we enter the correct email then the border color becomes green.
-Technologies : HTML, CSS and JavaScript
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100" height="50" />
+# Email-Validation-Script
+Make an email input field with email validation. Input filed the label text moves up when we start typing anything in this input field.
+There is an Error message which moves down when we enter any invalid email.If the entered email id is invalid then you can see the error message and the border color of input field is red. Once we enter the correct email then the border color becomes green.
+
+
+## Technologies
+
+**HTML, CSS and JavaScript**
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at webshack2018@icloud.com
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/Ezy1KTNF6dw)
